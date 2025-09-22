@@ -116,7 +116,7 @@ The **Adaptive Ecosystem Simulator** is a full-stack web application that models
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/goravgumber/adaptive-ecosystem-simulator.git
+git clone https://github.com/Gauravg2630/adaptive-ecosystem-simulator.git
 cd adaptive-ecosystem-simulator
 ```
 
@@ -286,23 +286,6 @@ GET /api/events            # Get event logs
 # Maintains model versioning
 ```
 
-## 📸 Screenshots
-
-### Main Dashboard
-- Real-time population statistics
-- Interactive trend charts
-- System status overview
-
-### AI Predictions
-- Collapse risk visualization with radial charts
-- Population forecasting with line charts
-- Smart recommendations with priority levels
-
-### System Monitoring
-- Performance metrics dashboard
-- Alert management system
-- Real-time resource tracking
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -323,9 +306,9 @@ Contributions are welcome! Please follow these steps:
 
 **Gorav Gumber**
 - **Status**: BTech 3rd Year, Computer Science Engineering
-- **GitHub**: [@goravgumber](https://github.com/goravgumber)
-- **LinkedIn**: [Gorav Gumber](https://linkedin.com/in/goravgumber)
-- **Email**: gorav.gumber@example.com
+- **GitHub**: [@goravgumber](https://github.com/Gauravg2630)
+- **LinkedIn**: [Gorav Gumber](https://linkedin.com/in/gorav-gumber-9319a2342)
+- **Email**: goravgumberg@gmail.com
 
 ### Development Journey
 This project was built over **27 consecutive days** as part of a comprehensive full-stack development challenge, showcasing:
